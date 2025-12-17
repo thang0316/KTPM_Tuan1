@@ -1,5 +1,3 @@
-# sgu25-ktpm-dct122c4
-
 # Bài Tập Kiểm Thử Phần Mềm - Tuần 1
 
 ## Mô tả
